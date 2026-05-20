@@ -1,0 +1,6 @@
+username,password,email,expectedResult
+thuannt,1234567,thuan@fe.edu.vn,true
+admin,abcdefgh,admin@gmail.com,true
+,,test@gmail.com,false
+user1,123,user1@gmail.com,false
+user2,1234567,user2gmailcom,false
